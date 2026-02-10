@@ -1,4 +1,4 @@
-# 📊 Project 3: Financial Performance Analysis Using SQL
+# 📊 Financial Performance Analysis Using SQL
 
 ## 🧾 Executive Summary
 
